@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProjetoTCC_v7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ProjetoTCC_v7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
